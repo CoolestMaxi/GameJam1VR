@@ -1,10 +1,7 @@
-[46796:9860:1004/220059.940:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[46796:34572:1004/220059.967:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[46796:9860:1004/220059.975:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[55920:39468:1004/220102.912:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-2360DD85471F8D8C071462CFB8245CAE will be ignored
-[46796:9860:1004/220106.821:ERROR:device_event_log_impl.cc(196)] [22:01:06.811] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
-[5660:35012:1004/222711.980:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 7-A131D67D0BE80ADF09FAFBE2E5ABF60E will be ignored
-[46796:9860:1004/222741.187:ERROR:menu_runner_views_aura.cc(24)] Window handle is required for default OSR context menu.
-[46796:9860:1004/222741.187:ERROR:menu_manager.cc(198)] Default context menu implementation is not available; canceling the menu
-[49672:49756:1004/222855.191:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame B-244A21B8CEF1D779CF7ABB51EAF66FBA will be ignored
-[46796:9860:1004/223557.534:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[4756:11124:1004/233904.804:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[4756:21688:1004/233904.836:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[4756:11124:1004/233904.848:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[33844:28860:1004/233909.184:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 6-E94ADF373909D33432BE24093E736288 will be ignored
+[54776:31840:1004/233909.188:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-C879F103D778A74F8F2DBEB3551FE993 will be ignored
+[4756:11124:1004/233912.297:ERROR:device_event_log_impl.cc(196)] [23:39:12.291] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[4756:11124:1004/235352.209:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
