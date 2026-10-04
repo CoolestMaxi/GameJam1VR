@@ -1,0 +1,52 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Notandi/Documents/Unreal Projects/TestVR/Content/VRTemplate/VRTemplateMap_BuiltData.uasset",
+				"C:/Users/Notandi/Documents/Unreal Projects/TestVR/Content/VRTemplate/VRTemplateMap.umap",
+				"C:/Users/Notandi/Documents/Unreal Projects/TestVR/Content/scene/StaticMeshes/scene.uasset",
+				"C:/Users/Notandi/Documents/Unreal Projects/TestVR/Content/C4Mat.uasset",
+				"C:/Users/Notandi/Documents/Unreal Projects/TestVR/Content/C4_BP.uasset",
+				"C:/Users/Notandi/Documents/Unreal Projects/TestVR/Content/XRFramework/Blueprints/scene/Textures/DefaultMaterial_baseColor.uasset",
+				"C:/Users/Notandi/Documents/Unreal Projects/TestVR/Content/XRFramework/Blueprints/scene/Textures/DefaultMaterial_metallicRoughness.uasset",
+				"C:/Users/Notandi/Documents/Unreal Projects/TestVR/Content/XRFramework/Blueprints/scene/Textures/DefaultMaterial_normal.uasset",
+				"C:/Users/Notandi/Documents/Unreal Projects/TestVR/Content/XRFramework/Blueprints/scene/Materials/DefaultMaterial.uasset",
+				"C:/Users/Notandi/Documents/Unreal Projects/TestVR/Content/XRFramework/Blueprints/scene/StaticMeshes/scene.uasset",
+				"C:/Users/Notandi/Documents/Unreal Projects/TestVR/Content/scene/Textures/DefaultMaterial_baseColor.uasset",
+				"C:/Users/Notandi/Documents/Unreal Projects/TestVR/Content/scene/Textures/DefaultMaterial_metallicRoughness.uasset",
+				"C:/Users/Notandi/Documents/Unreal Projects/TestVR/Content/scene/Textures/DefaultMaterial_normal.uasset",
+				"C:/Users/Notandi/Documents/Unreal Projects/TestVR/Content/scene/Materials/DefaultMaterial.uasset",
+				"C:/Users/Notandi/Documents/Unreal Projects/TestVR/Content/scene/Materials/Material.uasset",
+				"C:/Users/Notandi/Documents/Unreal Projects/TestVR/Content/scene/Materials/Material_001.uasset",
+				"C:/Users/Notandi/Documents/Unreal Projects/TestVR/Content/scene/StaticMeshes/Basketball_0.uasset",
+				"C:/Users/Notandi/Documents/Unreal Projects/TestVR/Content/scene/StaticMeshes/Basketball_1.uasset",
+				"C:/Users/Notandi/Documents/Unreal Projects/TestVR/Content/materials_models_weapons_w_models_w_c4_c4.uasset",
+				"C:/Users/Notandi/Documents/Unreal Projects/TestVR/Content/C4-1.uasset",
+				"C:/Users/Notandi/Documents/Unreal Projects/TestVR/Content/materials_models_weapons_w_models_w_c4_c4_.uasset",
+				"C:/Users/Notandi/Documents/Unreal Projects/TestVR/Content/internal_ground_ao_texture.uasset",
+				"C:/Users/Notandi/Documents/Unreal Projects/TestVR/Content/NewNiagaraEmitter.uasset",
+				"C:/Users/Notandi/Documents/Unreal Projects/TestVR/Content/VRInteractionBPI.uasset",
+				"C:/Users/Notandi/Documents/Unreal Projects/TestVR/Content/XRFramework/Blueprints/BP_XRPawn.uasset",
+				"C:/Users/Notandi/Documents/Unreal Projects/TestVR/Content/MagGunMat.uasset",
+				"C:/Users/Notandi/Documents/Unreal Projects/TestVR/Content/SK_MagnetGun.uasset",
+				"C:/Users/Notandi/Documents/Unreal Projects/TestVR/Content/XRFramework/Blueprints/BP_MagnetGun.uasset",
+				"C:/Users/Notandi/Documents/Unreal Projects/TestVR/Content/BP_MagneticActor.uasset",
+				"C:/Users/Notandi/Documents/Unreal Projects/TestVR/Content/Highlight_MAT.uasset",
+				"C:/Users/Notandi/Documents/Unreal Projects/TestVR/Content/XRFramework/Blueprints/BP_Pistol.uasset",
+				"C:/Users/Notandi/Documents/Unreal Projects/TestVR/Content/lambert2.uasset",
+				"C:/Users/Notandi/Documents/Unreal Projects/TestVR/Content/SK_MagnetGun_PhysicsAsset.uasset",
+				"C:/Users/Notandi/Documents/Unreal Projects/TestVR/Content/SK_MagnetGun_Skeleton.uasset",
+				"C:/Users/Notandi/Documents/Unreal Projects/TestVR/Content/MagGun_Lo_lambert1_BaseColor.uasset",
+				"C:/Users/Notandi/Documents/Unreal Projects/TestVR/Content/MagGun_Lo_lambert1_Normal.uasset",
+				"C:/Users/Notandi/Documents/Unreal Projects/TestVR/Content/MagGun_Lo_lambert1_OcclusionRoughnessMetallic.uasset",
+				"C:/Users/Notandi/Documents/Unreal Projects/TestVR/Content/MagGun.uasset",
+				"C:/Users/Notandi/Documents/Unreal Projects/TestVR/Content/Highlight_MAT_Inst.uasset",
+				"C:/Users/Notandi/Documents/Unreal Projects/TestVR/Content/ANIM_MagGun_BackwardRotation.uasset",
+				"C:/Users/Notandi/Documents/Unreal Projects/TestVR/Content/ANIM_MagGun_ForwardRotation.uasset"
+			]
+		}
+	]
+}
